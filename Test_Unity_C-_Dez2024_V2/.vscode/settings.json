@@ -52,5 +52,6 @@
         "Temp/": true
     },
     "dotnet.defaultSolution": "Test_Unity_C-_Dez2024_V2.sln",
-    "vstuc.displayBackgroundProcesses": true
+    "vstuc.displayBackgroundProcesses": true,
+    "git.autoStash": true
 }
