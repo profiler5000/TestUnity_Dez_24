@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Profiler.Unity_Test_Project2024
 {
-    public class Scenemanager : U
+    public class Scenemanager : 
     {
         // Start is called before the first frame update
         void Start()
